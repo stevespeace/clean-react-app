@@ -11,8 +11,24 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color:brown;
 }
 
 p{
   font-family: 'Lato', sans-serif;
+}
+
+.outerdiv{
+  outline:1px solid blue;
+
+  display: flex;
+  gap: 50px;
+  padding: 200px;
+}
+.textcontainer{
+outline:1px solid red;
+
+
+
+
 }
